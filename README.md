@@ -111,3 +111,5 @@ Bonus Modules:
 [APIs](https://docs.google.com/a/flatironschool.com/document/d/1jIuyGUuwPU3_zjdhUMMRc40SlDaCT-4PiGgSHYxgTrY/edit)
 
 [Scraping](https://docs.google.com/a/flatironschool.com/document/d/1xrmCRaG1LkxUeFZiuHCpA7fDJIIG4z8Uc0ijiaDLt8A/edit)
+
+<a href='https://learn.co/lessons/hs-intro-software-course-outline' data-visibility='hidden'>View this lesson on Learn.co</a>

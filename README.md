@@ -112,4 +112,4 @@ Bonus Modules:
 
 [Scraping](https://docs.google.com/a/flatironschool.com/document/d/1xrmCRaG1LkxUeFZiuHCpA7fDJIIG4z8Uc0ijiaDLt8A/edit)
 
-<a href='https://learn.co/lessons/hs-intro-software-course-outline' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-software-course-outline' title='Intro to Software Engineering - Course Outline'>Intro to Software Engineering - Course Outline</a> on Learn.co and start learning to code for free.</p>
